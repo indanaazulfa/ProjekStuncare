@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+Tampilan UI Website StunCare
 
-Template Name: FlexStart
-Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Sumber:
+FlexStart - BootstrapMade.com
